@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://arjunjnair01.github.io/"
 title = "PORTFOLIO"
 paginate = 5
 theme = "PaperMod"
@@ -7,7 +7,7 @@ theme = "PaperMod"
   env = "production"
   title = "PORTFOLIO"
   description = "Hello, I'm Arjun J Nair, an enthusiastic Computer Engineer who is passionate about building software and knowing more about the **Tech** world, which helps him become the next Mark Zuckerberg, or maybe a better one:)"
-  keywords = ["Blog", "Portfolio", "Data Science"]
+  keywords = ["Blog", "Portfolio"]
   author = "Arjun"
   DateFormat = "January 2, 2006"
   defaultTheme = "auto"
@@ -36,12 +36,6 @@ theme = "PaperMod"
     imageHeight = 250
     imageTitle = "Arjun"
 
-    [[params.profileMode.buttons]]
-      name = "Blogs"
-      url = "blogs"
-    [[params.profileMode.buttons]]
-      name = "Projects"
-      url = "projects"
 
   [params.homeInfoParams]
     Title = "ARJUN"
