@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Skills on PORTFOLIO</title>
-    <link>https://examplesite.com/skills/</link>
+    <link>https://arjunjnair01.github.io/skills/</link>
     <description>Recent content in Skills on PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Nov 2023 03:01:37 +0530</lastBuildDate><atom:link href="https://examplesite.com/skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 03:01:37 +0530</lastBuildDate><atom:link href="https://arjunjnair01.github.io/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SKILLS</title>
-      <link>https://examplesite.com/skills/skills/</link>
+      <link>https://arjunjnair01.github.io/skills/skills/</link>
       <pubDate>Tue, 14 Nov 2023 03:01:37 +0530</pubDate>
       
-      <guid>https://examplesite.com/skills/skills/</guid>
+      <guid>https://arjunjnair01.github.io/skills/skills/</guid>
       <description>:
 Python C HTML CSS Javascript </description>
     </item>

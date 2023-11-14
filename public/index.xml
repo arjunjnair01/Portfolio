@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PORTFOLIO</title>
-    <link>https://examplesite.com/</link>
+    <link>https://arjunjnair01.github.io/</link>
     <description>Recent content on PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Nov 2023 03:01:37 +0530</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 03:01:37 +0530</lastBuildDate><atom:link href="https://arjunjnair01.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SKILLS</title>
-      <link>https://examplesite.com/skills/skills/</link>
+      <link>https://arjunjnair01.github.io/skills/skills/</link>
       <pubDate>Tue, 14 Nov 2023 03:01:37 +0530</pubDate>
       
-      <guid>https://examplesite.com/skills/skills/</guid>
+      <guid>https://arjunjnair01.github.io/skills/skills/</guid>
       <description>:
 Python C HTML CSS Javascript </description>
     </item>
     
     <item>
       <title>Task-02</title>
-      <link>https://examplesite.com/blogs/blogs/</link>
+      <link>https://arjunjnair01.github.io/blogs/blogs/</link>
       <pubDate>Tue, 14 Nov 2023 03:01:37 +0530</pubDate>
       
-      <guid>https://examplesite.com/blogs/blogs/</guid>
+      <guid>https://arjunjnair01.github.io/blogs/blogs/</guid>
       <description>Lessgo Hugo How i approched the task: This was an interesting but also a confusing task.I faced many issues on my way, but able to solve somehow, definitely with the help og google. Nevertheless, i was happy to see the result.
 Here are the steps i followed to complete the task:
 Step 1: I installed hugo using the terminal command snap install hugo

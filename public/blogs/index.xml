@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on PORTFOLIO</title>
-    <link>https://examplesite.com/blogs/</link>
+    <link>https://arjunjnair01.github.io/blogs/</link>
     <description>Recent content in Blogs on PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Nov 2023 03:01:37 +0530</lastBuildDate><atom:link href="https://examplesite.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 03:01:37 +0530</lastBuildDate><atom:link href="https://arjunjnair01.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Task-02</title>
-      <link>https://examplesite.com/blogs/blogs/</link>
+      <link>https://arjunjnair01.github.io/blogs/blogs/</link>
       <pubDate>Tue, 14 Nov 2023 03:01:37 +0530</pubDate>
       
-      <guid>https://examplesite.com/blogs/blogs/</guid>
+      <guid>https://arjunjnair01.github.io/blogs/blogs/</guid>
       <description>Lessgo Hugo How i approched the task: This was an interesting but also a confusing task.I faced many issues on my way, but able to solve somehow, definitely with the help og google. Nevertheless, i was happy to see the result.
 Here are the steps i followed to complete the task:
 Step 1: I installed hugo using the terminal command snap install hugo
