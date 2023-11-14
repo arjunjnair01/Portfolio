@@ -1,0 +1,107 @@
+baseURL = "https://examplesite.com/"
+title = "PORTFOLIO"
+paginate = 5
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  title = "PORTFOLIO"
+  description = "Hello, I'm Arjun J Nair, an enthusiastic Computer Engineer who is passionate about building software and knowing more about the **Tech** world, which helps him become the next Mark Zuckerberg, or maybe a better one:)"
+  keywords = ["Blog", "Portfolio", "Data Science"]
+  author = "Arjun"
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.label]
+    text = "PORTFOLIO"
+    icon = "logo.png"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = true
+    title = "ARJUN"
+    subtitle = "Hello, I'm Arjun J Nair, an enthusiastic Computer Engineer who is passionate about building software and knowing more about the **Tech** world, which helps him become the next Mark Zuckerberg, or maybe a better one:)"
+    imageUrl = "dp.png"
+    imageWidth = 250
+    imageHeight = 250
+    imageTitle = "Arjun"
+
+    [[params.profileMode.buttons]]
+      name = "Blogs"
+      url = "blogs"
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "projects"
+
+  [params.homeInfoParams]
+    Title = "ARJUN"
+    Content = "Hello, I'm Arjun J Nair, an enthusiastic Computer Engineer who is passionate about building software and knowing more about the **Tech** world, which helps him become the next Mark Zuckerberg, or maybe a better one:)"
+
+  [[params.socialIcons]]
+    name = "Instagram"
+    url = "https://www.instagram.com/__.arjuun.__/"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/arjun-j-nair-50b100266/"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/arjunjnair01"
+  [[params.socialIcons]]
+    name = "EMail"
+    url = "mailto:arjunjnair01@gmail.com"
+
+  [params.analytics]
+    [params.analytics.google]
+      SiteVerificationTag = "XYZabc"
+    [params.analytics.bing]
+      SiteVerificationTag = "XYZabc"
+    [params.analytics.yandex]
+      SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+    hidden = true
+    hiddenInList = true
+    hiddenInSingle = false
+
+  [params.editPost]
+    URL = ""
+    Text = ""
+    appendFilePath = true
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "blogs"
+  name = "Blogs"
+  url = "/blogs/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "skills"
+  name = "Skills"
+  url = "/skills/"
+  weight = 2
